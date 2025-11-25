@@ -1,7 +1,4 @@
-# CometBFT Consensus 완벽 가이드
 
-> Tendermint 알고리즘의 모든 것 - 코드 레벨 심층 분석
-> 
 > **버전**: CometBFT v0.38+ / v1.0 기준 | **최종 업데이트**: 2025년
 
 ---
